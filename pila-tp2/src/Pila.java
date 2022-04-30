@@ -2,12 +2,12 @@ public class Pila {
     //Nombre: Bruno Javier Paris
     //Legajo: VINF012105
     //DNI: 37659313
-    //Nombre: Bruno Javier Paris
-    //Legajo: VINF012105
-    //DNI: 37659313
-    //Nombre: Bruno Javier Paris
-    //Legajo: VINF012105
-    //DNI: 37659313
+    //Nombre: Carlos Tomás Núñez
+    //Legajo: VINF012142
+    //DNI: 42588090
+    //Nombre: Carlos Andres Castaño
+    //Legajo: VINF012100
+    //DNI: 30101548
 
 
     class Nodo {
